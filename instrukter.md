@@ -14,3 +14,11 @@ så er du ferdig
 #### koble til pi'en via pc 
 1. ssh username@ip 
 ps : bytt bruker navn med maskin navn og ip med ip til rasberry pi'en
+
+### oppdater python 
+ 1. oppdater denne dele av koden din med det som passer for din bruker
+ 
+ ![alt text](image-1.png)
+
+ ### kjøre kode på din maskin.
+ python telefonkatalog-2.py
