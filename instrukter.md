@@ -10,3 +10,6 @@ Ps: du trenger ikke å resette pi’en hvis du har allerede installert Ubuntu
 3. skriv git clone og denne url (https://github.com/Eyo007/Den.git)
 
 så er du ferdig
+
+#### python 
+1. gå til telefonkatalogg 2 kopier koden og kjør på din maskin
