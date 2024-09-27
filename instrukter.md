@@ -11,5 +11,6 @@ Ps: du trenger ikke å resette pi’en hvis du har allerede installert Ubuntu
 
 så er du ferdig
 
-#### python 
-1. gå til telefonkatalogg 2 kopier koden og kjør på din maskin
+#### koble til pi'en via pc 
+1. ssh username@ip 
+ps : bytt bruker navn med maskin navn og ip med ip til rasberry pi'en
